@@ -37,5 +37,15 @@
     ```
     {% 
 
+```js
+console.log('My first Method');
+```
+
+```go
+sdkafjldf
+```
+
+{% sample lang="js" %}
+
 
 
