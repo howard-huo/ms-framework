@@ -6,7 +6,7 @@
 ###### header 6
 
 
-{% method %}
+
 ## My first method
 
 My first method exposes how to print a message in JavaScript and Go.
