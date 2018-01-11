@@ -9,7 +9,7 @@
 
 ## My first method
 
-My first method exposes how to print a message in JavaScript and Go.
+My first method exposes how to print a message in JavaScript and Go.hhjgjhghj
 
 {% sample lang="jss" %}
 Here is how to print a message to `stdout` using JavaScript.
